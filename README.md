@@ -1,7 +1,5 @@
 <h3>HMI - Data Visualization</h3>
 <p>
-    <a href="http://djamel-sefsaf.fr/">Use the app</a>
-    ·
     <a href="https://drive.google.com/file/d/1mpTy-NHUf4QsU9Dhj-08gaOkSUhfAp9u/view?usp=sharing">Demo on Google Drive</a>
 </p>
 
